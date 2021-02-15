@@ -1,0 +1,41 @@
+h1{
+    color: darkslategrey;
+}
+a { 
+    text-decoration: none;
+}
+.cabecera1{
+     background: grey;
+     margin: 10px 10px;
+     padding: 5px;
+}
+
+.titulo1{
+    color: indigo;
+}
+.boton1{
+        margin: 10px;
+}
+.padre {
+    display:flex;
+}
+.navegacion1{
+    background: green;
+    margin: 10px;
+    padding: 5px;
+}
+.parrafo1 {
+    color: darkred;
+    text-align: justify;
+}
+.parrafo2 {
+    color: darkviolet;
+    text-align: justify;
+}
+.parrafo3 {
+    color: fuchsia;
+    text-align: justify;
+}
+.margeIzq{
+    margin-left: 20px;
+}
